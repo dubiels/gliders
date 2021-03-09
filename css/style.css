@@ -320,6 +320,11 @@ h5.subtitle {
   background: white;
 }
 
+.no-overlay {
+  background: #fff;
+  opacity: 0.0;
+}
+
 /* ========================
 
 ==============================*/
