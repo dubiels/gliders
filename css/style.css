@@ -555,7 +555,7 @@ h5.subtitle {
 
 .banner-1 {
   background: url("https://airbus-h.assetsadobe2.com/is/image/content/dam/corporate-topics/innovation/perlan/Airbus-Perlan-Mission-II-surpasses-U-2-01.jpg?wid=3626&fit=constrain");
-  background-size: fill;
+  background-size: auto;
   position: top;
 }
 
