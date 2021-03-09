@@ -555,8 +555,8 @@ h5.subtitle {
 
 .banner-1 {
   background: url("https://i.insider.com/56cf2a856e97c619008b9957?width=1136&format=jpeg");
-  background-size: auto;
-  position: top;
+  background-size: cover;
+  position: relative;
 }
 
 .banner-2 {
